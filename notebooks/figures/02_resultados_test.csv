@@ -1,0 +1,5 @@
+,Exactitud,Precisión,Recall,F1,Recall malignos,ROC-AUC
+Perceptrón,0.9474,0.9583,0.9583,0.9583,0.9286,0.9861
+Red de una capa,0.9825,0.9861,0.9861,0.9861,0.9762,0.9964
+"MLP optimizado (16,) relu",0.9649,0.9722,0.9722,0.9722,0.9524,0.9884
+Keras (misma arquitectura),0.9386,0.9851,0.9167,0.9496,0.9762,0.9924

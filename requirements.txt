@@ -1,0 +1,8 @@
+# Versiones con las que se ejecutaron los notebooks (Google Colab ya incluye todas)
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+scikit-learn>=1.4
+tensorflow>=2.16      # probado con 2.21.0 (Keras 3.15)
+torch>=2.2            # probado con 2.14.0
+torchvision>=0.17     # probado con 0.29.0
